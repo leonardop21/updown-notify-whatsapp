@@ -1,0 +1,20 @@
+{
+    "name": "leona/wpp-notification",
+    "description": "Alerta de site on/off do updown com notificação no WhatsApp",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Services\\" : "services/",
+            "Publics\\" : "´public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Nascimento",
+            "email": "dev@leonardonascimento.dev"
+        }
+    ]
+}
