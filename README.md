@@ -5,6 +5,10 @@
 
 Seja notificado no WhatsApp caso algum site monitorado no Updown.io fique fora do ar
 
+### Crie uma conta no UPDOWN
+
+[https://bit.ly/3IlDSdD](https://bit.ly/3IlDSdD)
+
 
 #### Rodando localmente
 Clone o projeto
